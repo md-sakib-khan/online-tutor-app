@@ -6,9 +6,9 @@ Video Link : https://drive.google.com/file/d/14xu4wVXJtrfY_ckYXuVmfNI1D4fsksfr/v
 
 
 
-#Project Title: Online Tutor Matching App
+# Project Title: Online Tutor Matching App
 
-#Project Features:
+# Project Features:
 By the end of this course, implemented features: 
 a)	Sign up system for both Students and Tutors individually.
 b)	Login System for both types of user, with different activity
@@ -17,7 +17,7 @@ d)	Tutors Can View those posts, But not Contact Numbers
 e)	Tutors will have to Pay for the Tuition, Can be only around 300-500 Taka.
 f)	Student and Tutor can contact each other after payment done.
 
-#Online Resources used:
+# Online Resources used:
 a)	Reference:
 
 •	https://developer.android.com/guide  (Android Developer guide webside)
@@ -43,7 +43,7 @@ https://drive.google.com/file/d/112vnCJBppIn1wwBVuImmtiN3XycWdWQN/view?usp=shari
 
 
 
-#Future Enhancements:
+# Future Enhancements:
 Following enhancement can be added to the current system, which will improve the system. 
 a)	Good Payment System
 b)	Detailed Structured Database

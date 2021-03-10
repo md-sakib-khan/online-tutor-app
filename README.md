@@ -20,22 +20,22 @@ By the end of this course, implemented features:
 # Online Resources used:
 a)	Reference:
 
-•	https://developer.android.com/guide  (Android Developer guide webside)
-•	Youtube Videos: 
-•	https://www.youtube.com/watch?v=ZYvbmVEwX14&list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5    (This is a Playlist, where Lot of things are covered of Android)
-•	https://www.youtube.com/watch?v=Sk2FxcAczVo&list=PLkyGuIcLcmx06VbYVd1wrkQE_Dyt2ksna&index=2   (Recycler View Detailed Tutorials)
-•	https://www.youtube.com/watch?v=K_cfIVdceHY&list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-  (Tutorial For Firebase)
-•	https://www.youtube.com/watch?v=i-gZAYBMuBs&list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt  
+1.	https://developer.android.com/guide  (Android Developer guide webside)
+2.	Youtube Videos: 
+	https://www.youtube.com/watch?v=ZYvbmVEwX14&list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5    (This is a Playlist, where Lot of things are covered of Android)
+	https://www.youtube.com/watch?v=Sk2FxcAczVo&list=PLkyGuIcLcmx06VbYVd1wrkQE_Dyt2ksna&index=2   (Recycler View Detailed Tutorials)
+	https://www.youtube.com/watch?v=K_cfIVdceHY&list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-  (Tutorial For Firebase)
+	https://www.youtube.com/watch?v=i-gZAYBMuBs&list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt  
  (Firebase Tutorials)
 
 
 
-b)	Github link Of My project : 
+# Github link Of My project : 
 https://github.com/MdSakibKhan/Android_Project.git
 
 
 
-c)	Video Recording Of the project :
+# Video Recording Of the project :
 https://drive.google.com/file/d/112vnCJBppIn1wwBVuImmtiN3XycWdWQN/view?usp=sharing
 
 
@@ -45,8 +45,8 @@ https://drive.google.com/file/d/112vnCJBppIn1wwBVuImmtiN3XycWdWQN/view?usp=shari
 
 # Future Enhancements:
 Following enhancement can be added to the current system, which will improve the system. 
-a)	Good Payment System
-b)	Detailed Structured Database
-c)	Recommendation Feature
-d)	More Friendly UI 
+1.	Good Payment System
+2.	Detailed Structured Database
+3.	Recommendation Feature
+4. More Friendly UI 
 

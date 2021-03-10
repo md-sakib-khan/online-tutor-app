@@ -10,12 +10,12 @@ Video Link : https://drive.google.com/file/d/14xu4wVXJtrfY_ckYXuVmfNI1D4fsksfr/v
 
 # Project Features:
 By the end of this course, implemented features: 
-a)	Sign up system for both Students and Tutors individually.
-b)	Login System for both types of user, with different activity
-c)	Students Can post their Tuitions with details
-d)	Tutors Can View those posts, But not Contact Numbers
-e)	Tutors will have to Pay for the Tuition, Can be only around 300-500 Taka.
-f)	Student and Tutor can contact each other after payment done.
+1.	Sign up system for both Students and Tutors individually.
+2. 	Login System for both types of user, with different activity.
+3.	Students Can post their Tuitions with details
+4.	Tutors Can View those posts, But not Contact Numbers
+5.	Tutors will have to Pay for the Tuition, Can be only around 300-500 Taka.
+6.	Student and Tutor can contact each other after payment done.
 
 # Online Resources used:
 a)	Reference:

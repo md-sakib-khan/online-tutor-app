@@ -1,12 +1,8 @@
-# Android_Project
-XML and JAVA Codes are in the Codes.zip
-Download and Open the Files
-
-Video Link : https://drive.google.com/file/d/14xu4wVXJtrfY_ckYXuVmfNI1D4fsksfr/view?usp=sharing
-
-
-
 # Project Title: Online Tutor Matching App
+
+# Video Recording Of the project :
+https://drive.google.com/file/d/112vnCJBppIn1wwBVuImmtiN3XycWdWQN/view?usp=sharing
+
 
 # Project Features:
 By the end of this course, implemented features: 
@@ -27,20 +23,6 @@ a)	Reference:
 	https://www.youtube.com/watch?v=K_cfIVdceHY&list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-  (Tutorial For Firebase)
 	https://www.youtube.com/watch?v=i-gZAYBMuBs&list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt  
  (Firebase Tutorials)
-
-
-
-# Github link Of My project : 
-https://github.com/MdSakibKhan/Android_Project.git
-
-
-
-# Video Recording Of the project :
-https://drive.google.com/file/d/112vnCJBppIn1wwBVuImmtiN3XycWdWQN/view?usp=sharing
-
-
-
-
 
 
 # Future Enhancements:

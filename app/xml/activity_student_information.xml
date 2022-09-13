@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".studentInformationActivity"
+    android:background="#101313">
+
+    <ScrollView
+        android:layout_width="398dp"
+        android:layout_height="482dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="6dp"
+        android:layout_marginRight="6dp"
+        android:background="#00BCD4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView9"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/nameinfo"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="7dp"
+                android:background="#090909" />
+
+            <TextView
+                android:id="@+id/institutioninfo"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="7dp"
+                android:background="#090909" />
+
+            <TextView
+                android:id="@+id/classinfo"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="7dp"
+                android:background="#090909" />
+
+            <TextView
+                android:id="@+id/numberinfo"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="7dp"
+                android:background="#090909" />
+
+            <TextView
+                android:id="@+id/emailinfo"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="7dp"
+                android:background="#090909" />
+
+            <TextView
+                android:id="@+id/addressinfo"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:fontFamily="monospace"
+                android:text="TextView"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="340dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="57dp"
+        android:layout_marginLeft="57dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginRight="57dp"
+        android:fontFamily="monospace"
+        android:text="Personal Information"
+        android:textSize="25dp"
+        android:background="#B5CBE3"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.511"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints"
+        android:gravity="center_horizontal" />
+</androidx.constraintlayout.widget.ConstraintLayout>
